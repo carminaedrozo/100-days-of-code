@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 0: January 1, 2019
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: Finished watching [Traversy Media's ExpressJS Crash] (https://www.youtube.com/watch?v=gnsO8-xJ8rs) on Youtube. I am using MySQL instead of MongoDB from the video. I made a database and was able to connect to it using NodeJS/ExpressJS. Started reading ExpressJS Guide.   
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** In school, we used PHP, Slim framework, and Propel ORM for the Internet programming class. Now, I am learning NodeJS and ExpressJS. I am slowly learning and learning something new is hard but also exciting. My next step is to be able to do basic CRUD functions. Probably for this week, I will only study node and express. After that, I can work on a project. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to work:** [/practice-expressjs](https://github.com/carminaedrozo/practice-expressjs)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
